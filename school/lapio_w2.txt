@@ -1,7 +1,12 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 albin albin albin albin
 test test test test test test test test test test test test test test test test test test
+=======
+sdöolknsdlglknsergölkmserglkmserglkm ölkmerg llkmesr glkmerglkerglk
+kalle kalle kalle kalle kalle kalle kalle kalle kalle
+>>>>>>> Stashed changes
 =======
 sdöolknsdlglknsergölkmserglkmserglkm ölkmerg llkmesr glkmerglkerglk
 kalle kalle kalle kalle kalle kalle kalle kalle kalle
